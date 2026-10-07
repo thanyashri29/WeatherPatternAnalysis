@@ -1,0 +1,14 @@
+Weather Pattern Analysis - Chennai (2023-01-01 to 2025-12-31)
+Average temperature: 28.3 C
+Hottest day: 2024-05-28 (41.0 C)
+Wettest day: 2023-12-04 (255.8 mm)
+Rainy days (>1 mm): 447 of 1096
+Hottest month on average: Jun
+Wettest month on average: Nov
+Rain vs mean-temperature correlation: -0.21
+
+Season-wise averages:
+  Winter        avg temp 25.7 C | avg rainfall 347 mm/year
+  Summer        avg temp 29.6 C | avg rainfall 163 mm/year
+  Monsoon (SW)  avg temp 29.8 C | avg rainfall 548 mm/year
+  Monsoon (NE)  avg temp 27.1 C | avg rainfall 588 mm/year
